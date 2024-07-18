@@ -2,8 +2,7 @@
 Notebooks at Beta.
 
 
-* [A0. Before you begin]
-  (http://nbviewer.ipython.org/urls/raw.githubusercontent.com/LiveKlas/DataScience_Projects/main/notebooks/A0.%20Before%20You%20Begin.ipynb)
+* [A0. Before you begin](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/LiveKlas/DataScience_Projects/main/notebooks/A0.%20Before%20You%20Begin.ipynb)
 * [A0. How to use this content](http://nbviewer.ipython.org/urls/raw.github.com/nborwankar/LearnDataScience/master/notebooks/A0.%20How%20to%20use%20this%20content.ipynb)
 * [A1. Linear Regression - Overview](http://nbviewer.ipython.org/urls/raw.github.com/nborwankar/LearnDataScience/master/notebooks/A1.%20Linear%20Regression%20-%20Overview.ipynb)
 * [A2. Linear Regression - Data Exploration - Lending Club](http://nbviewer.ipython.org/urls/raw.github.com/nborwankar/LearnDataScience/master/notebooks/A2.%20Linear%20Regression%20-%20Data%20Exploration%20-%20Lending%20Club.ipynb)
